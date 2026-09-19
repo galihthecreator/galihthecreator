@@ -28,13 +28,13 @@
 
 ---
 
-### 📊 GitHub Activity & Streak
+### 🏆 GitHub Streak & Trophies
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=galihthecreator&theme=tokyonight&hide_border=true" width="60%" alt="Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=galihthecreator&theme=tokyo-night&hide_border=true" width="100%" alt="Activity Graph" />
+  <img src="https://github-profile-trophy.vercel.app/?username=galihthecreator&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" width="100%" alt="Trophies" />
 </p>
 
 ---
