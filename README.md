@@ -43,6 +43,11 @@
 </p>
 
 <p align="center">
+  <!-- Pastikan URL ini benar -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galihthecreator&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" width="60%" alt="Top Languages" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galihthecreator&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" width="60%" />
 </p>
 
