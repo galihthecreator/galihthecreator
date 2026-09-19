@@ -31,15 +31,15 @@
 ### 📊 GitHub Stats & Streak
 <p align="center">
   <!-- Pastikan URL ini benar -->
-  <img src="https://github-readme-stats.vercel.app/api?username=galihthecreator&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=octocat&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
   
   <!-- Pastikan URL ini benar -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=galihthecreator&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=octocat&theme=tokyonight&hide_border=true" width="48%" alt="GitHub Streak" />
 </p>
 
 <p align="center">
   <!-- Pastikan URL ini benar -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galihthecreator&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" width="60%" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=octocat&layout=compact&theme=tokyonight&hide_border=true&hide=html,css" width="60%" alt="Top Languages" />
 </p>
 
 ---
