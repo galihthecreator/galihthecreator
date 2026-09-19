@@ -13,9 +13,9 @@
 ---
 
 ### 🚀 About Me
-- 🔭 sedang berfokus pada **Machine Learning & System Architecture**
-- 🛠 Sering menggunakan **Python, TensorFlow, FastAPI, & Docker**
-- ⚡ Suka mempelajari **GPU Computing (CUDA) & Low-Level Optimization**
+- 🔭 Admiring **Machine Learning & System Architecture**
+- 🛠 Always use **Python, TensorFlow, FastAPI, & Docker**
+- ⚡ Love to learn **GPU Computing (CUDA) & Low-Level Optimization**
 
 ---
 
@@ -27,18 +27,16 @@
 </p>
 
 ---
-### 📊 GitHub Stats & Streak
+
+### 📊 GitHub Activity & Streak
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=galihthecreator&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&v=2" width="48%" alt="Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=galihthecreator&theme=tokyonight&hide_border=true&v=2" width="48%" alt="Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=galihthecreator&theme=tokyonight&hide_border=true" width="48%" alt="Streak" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=galihthecreator&theme=tokyo-night&hide_border=true" width="48%" alt="Activity Graph" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=galihthecreator&layout=compact&theme=tokyonight&hide_border=true&hide=html,css&v=2" width="60%" alt="Languages" />
-</p>
 ---
 
-### 🐍
+### 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/galihthecreator/galihthecreator/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
 </p>
